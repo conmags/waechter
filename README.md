@@ -1,5 +1,17 @@
-# waechter
-Waechter is an authorization framework built in go
+
+<h1 align="center"><img  src="https://github.com/conmags/waechter/blob/master/media/logo.png?raw=true" width="300px" /></h1>
+
+----
+
+
+Waechter is an authorization framework built in go.
+
+# Get started
+
+```bash
+  go get github.com/conmags/waechter
+```
+
 
 
 # Core technology
@@ -12,8 +24,3 @@ Waechter is built around adapters. This allows to integrate into your stack. Cur
 
 <img src="https://github.com/conmags/waechter/blob/master/media/mongo.png?raw=true"  width="100px"  /><img src="https://github.com/conmags/waechter/blob/master/media/smtp.png?raw=true" width="100px" /><img src="https://github.com/conmags/waechter/blob/master/media/gin.png?raw=true" width="100px"  />
 
-# Get started
-
-```bash
-  go get github.com/conmags/waechter
-```
