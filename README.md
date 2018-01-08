@@ -24,3 +24,9 @@ Waechter is built around adapters. This allows to integrate into your stack. Cur
 
 <img src="https://github.com/conmags/waechter/blob/master/media/mongo.png?raw=true"  width="100px"  /><img src="https://github.com/conmags/waechter/blob/master/media/smtp.png?raw=true" width="100px" /><img src="https://github.com/conmags/waechter/blob/master/media/gin.png?raw=true" width="100px"  />
 
+# Roadmap
+- Documentation / Examples
+- waechter-ui
+- Middleware 
+- Callbacks
+- Standalone Microservice
