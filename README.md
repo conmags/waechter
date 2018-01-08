@@ -30,3 +30,6 @@ Waechter is built around adapters. This allows to integrate into your stack. Cur
 - Middleware 
 - Callbacks
 - Standalone Microservice
+- Invite System
+- oAuth + Goth 
+- Administration 
